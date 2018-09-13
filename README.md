@@ -1,8 +1,8 @@
-### Translation Database
+# Translation Database
 
-# This is the back-end to the Translation App. 
+### This is the back-end to the Translation App. 
 
-# Technology used:
+### Technology used:
   - Knex
   - Express
   - Postgres
